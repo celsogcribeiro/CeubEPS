@@ -1,20 +1,20 @@
 <h1 align="center">Sistematização de Engenharia e Projeto de Software</h1>
 
-<p align="center">Extensão para Google Chrome que permite contar caracteres de um texto.</p>
+<h3 align="center">Extensão para Google Chrome que permite contar caracteres de um texto.</h3>
 
-## Como instalar a extensão? 🔨
+## Como instalar a extensão? 💻
 
 ### Chrome
 
-Infelizmente a instalação no Chrome é feita manualmente.
+Optou-se pela instalação no Chrome ser feita manualmente, pois para publicar na Chrome Web Store é preciso pagar 5 dólares. Abaixo mostro como fazer a instalação de forma manual :bowtie:.
 
 ### Passo a passo
 
 1. Baixe este código fonte.
 2. Abra o seu Google Chrome.
-3. Vá em <img src="https://imgur.com/yKkBAZ7.png" /> / Mais Ferramentas / Extensões.
-4. Ative o modo desenvolvedor.
-5. Clique em carregar sem compactação, escolha a pasta onde você salvou o código, clique em `src` e pronto, tudo deve estar funcionando.
+3. Vá em <img src="https://imgur.com/yKkBAZ7.png" /> / Extensões / Gerenciar extensões.
+4. Ative o modo do desenvolvedor.
+5. Clique em Carregar sem compactação, escolha a pasta onde você salvou o código, clique em `src` e pronto, tudo deve estar funcionando.
 
 ## Referências
 
