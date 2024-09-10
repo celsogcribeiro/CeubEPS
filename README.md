@@ -1,6 +1,6 @@
 <h1 align="center">Sistematização de Engenharia e Projeto de Software</h1>
 
-<h3 align="center">Extensão para Google Chrome que permite contar caracteres de um texto.</h3>
+<h3 align="center">Extensão para Google Chrome que permite contar a quantidade de caracteres de um texto.</h3>
 
 ## Como instalar a extensão? 💻
 
