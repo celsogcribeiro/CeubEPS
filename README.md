@@ -1,12 +1,13 @@
 <h1 align="center">Sistematização de Engenharia e Projeto de Software</h1>
 
 <h3 align="center">Extensão para Google Chrome que permite contar a quantidade de caracteres de um texto</h3>
+<br></br>
 
 ## Como instalar a extensão? 💻
 
 ### Chrome
 
-Optou-se pela instalação no Chrome ser feita manualmente, pois para publicar na Chrome Web Store é preciso pagar 5 dólares. Abaixo mostro como fazer a instalação de forma manual :bowtie:.
+Optou-se pela instalação no Chrome ser feita manualmente, pois para publicar na Chrome Web Store é necessário o pagamento de 5 dólares. Abaixo mostro como fazer a instalação de forma manual :bowtie:.
 
 ### Passo a passo
 
