@@ -52,6 +52,7 @@ Componentes Principais:
 A extensão utiliza a DOM do navegador para manipular elementos HTML.
 
 Principais interações **DOM**:
+
 - _document.getElementById()_: utilizado para capturar elementos da interface;
 - _addEventListener()_: usado para escutar eventos de entrada e clique.
 
@@ -63,7 +64,7 @@ Principais interações **DOM**:
 
 - Diagrama de Classes:
 
-<a href="https://ibb.co/P9p47H8"><img src="https://i.ibb.co/wwHC9m1/Classe-UML-2.png" alt="Classe-UML-2" border="0"></a>
+<a href="https://ibb.co/P9p47H8"><img src="https://i.ibb.co/wwHC9m1/Classe-UML-2.png" alt="Classe-UML-2" border="0" width="50%"></a>
 
 - Diagrama de Sequência: 
 
