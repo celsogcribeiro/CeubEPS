@@ -16,8 +16,8 @@ Optou-se pela instalação no Chrome ser feita manualmente, pois para publicar n
 3. Vá em <img src="https://imgur.com/yKkBAZ7.png" /> / Extensões / Gerenciar extensões.
 4. Ative o modo do desenvolvedor.
 5. Clique em Carregar sem compactação, escolha a pasta onde você salvou o código, clique em `src` e pronto, tudo deve estar funcionando.
-
-## Como utilizar a extensão? 📃
+<br></br>
+## Como utilizá-la?
 
 ### Passo a passo
 
@@ -67,4 +67,5 @@ Principais interações **DOM**:
 
 - Diagrama de Sequência: 
 
-<a href="https://ibb.co/LJjM7n5"><img src="https://i.ibb.co/F0Z9TgV/Classe-UML.png" alt="Classe-UML" border="0"></a>
+<a href="https://ibb.co/6PyyZFV"><img src="https://i.ibb.co/NjFF3KQ/Classe-UML-1.png" alt="Classe-UML-1" border="0" width="65%"></a>
+
